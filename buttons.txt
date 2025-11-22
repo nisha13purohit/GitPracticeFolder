@@ -1,1 +1,2 @@
 This is my new File on login-page branch which creates buttons
+Close the application button
